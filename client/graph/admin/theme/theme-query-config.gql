@@ -1,0 +1,12 @@
+query {
+  theming {
+    config {
+      theme
+      iconset
+      darkMode
+      injectCSS
+      injectHead
+      injectBody
+    }
+  }
+}
